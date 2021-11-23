@@ -51,7 +51,7 @@ Students may work in teams of two on the term project.
 | Week | Date | Topic | Code | Slide |
 | :---: | :-----: | --- | :---: | :---: | 
 | 1 | 16 Nov | **Introduction & Reviews** `Introduction to the course, syllabus, and specifications.` `Reviews of topics in Fundamentals of Computer Programming` `I/O Manipulation` | [📂](https://github.com/Kiratijuta/vms.oop.20212/tree/main/src/class1) | [📑](https://github.com/Kiratijuta/vms.oop.20212/blob/main/slides/01a-Java-Basics.pdf) |
-| 2 | 23 Nov | **Data Types & Control Structures** `Data types & expressions, primitive & reference data types.` `Control structures & algorithm runtime.` | 
+| 2 | 23 Nov | **Data Types & Control Structures** `Data types & expressions, primitive & reference data types.` `Control structures & algorithm runtime.` | [📂](https://github.com/Kiratijuta/vms.oop.20212/tree/main/src/class2) | [📑](https://github.com/Kiratijuta/vms.oop.20212/blob/main/slides/02a-Character-and-String-Processing.pdf) [📑](https://github.com/Kiratijuta/vms.oop.20212/blob/main/slides/02b-Modular-Programming.pdf) |
 | 3 | 30 Nov | **Classes & Objects** `Understanding classes & objects.` `Defining & implementing attributes & methods.` |
 | 4 | 07 Dec | **Class Member Specifications** `Understanding encapsulation & access modifiers.` `Constructors, accessors, mutators, and method overloading.` |
 | 5 | 14 Dec | **🚨 Quiz I** |
