@@ -15,20 +15,14 @@ The course aims to provide students essential concepts on analyzing and designin
 
 ## Overall Mark Allocation 💰
 
-| Tasks | ~ | Score |
-| :--- | :---: | :---: | 
-| **Programming Exercises** |  | **25%** | 
-| - Class Exercises | 15% |  | 
-| - Homework | 10% |  | 
-| **Quizzes** |  | **10%** |
-| **Project** |  | **25%** |
-| - Design | 5% |  | 
-| - Implementation | 10% |  | 
-| - Report | 5% |  | 
-| - Presentation | 5% |  | 
-| **Online Midterm Exam** |  | **20%** |
-| **Online Final Exam** |  | **20%** |
-| **Grading Score** |  | **100%** |
+| Tasks | Score |
+| :--- | :---: | 
+| Programming Exercises  | 25% | 
+| Quizzes | 10% |
+| Project | 25% |
+| Online Midterm Exam | 20% |
+| Online Final Exam | 20% |
+| **Grading Score** | **100%** |
 
 The grades would be officially posted by the Registration Office. All assignments will be returned to students in a timely manner with comments and score.
 
@@ -41,8 +35,16 @@ Online final exam will be conducted on March 21st, 2022 via Microsoft Teams. Stu
 ## Programming Exercises
 Programming exercises will be given each week and they are normally due by midnight of every Sunday of the week that they are assigned. Late submission will not be accepted.
 
-## Project 🔥
+## Course Project Overview 🔥
 Students may work in teams of two on the term project.
+
+| Tasks | Score |
+| :--- | :---: | 
+| Design | 5% |
+| Implementation | 10% | 
+| Report | 5% |
+| Presentation | 5% |
+| **Total** | **25%** |
 
 ## Class Outline 🧑🏻‍🏫
 
