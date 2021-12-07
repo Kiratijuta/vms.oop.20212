@@ -1,5 +1,7 @@
 package class1;
 
+import class4.AccessLevel;
+
 public class Exercise1 {
 
     /**
