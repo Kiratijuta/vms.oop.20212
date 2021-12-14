@@ -1,5 +1,9 @@
 package class4;
 
+/**
+ * @author Kiratijuta
+ *
+ */
 public class CheckingAccount {
 
     String owner;
@@ -19,7 +23,7 @@ public class CheckingAccount {
 
     /**
      * @author Kiratijuta
-     * @param amount
+     * @param amount (the number that you would like to add to the balance)
      * @return new balance
      */
     double deposit(double amount) {
