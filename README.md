@@ -56,13 +56,13 @@ Students may work in teams of two on the term project.
 | 4 | 07 Dec | **Classes & Objects** `Understanding classes & objects.` `Defining & implementing attributes & methods.` | [📂](https://github.com/Kiratijuta/vms.oop.20212/tree/main/src/class4) | [📑](https://github.com/Kiratijuta/vms.oop.20212/blob/main/slides/04-OO-Fundamentals.pdf) |
 | 5 | 14 Dec | **Classes & Objects (cont.)** `Understanding classes & objects.` `Nested Class.` | [📂](https://github.com/Kiratijuta/vms.oop.20212/tree/main/src/class5) | [📑](https://github.com/Kiratijuta/vms.oop.20212/blob/main/slides/04-OO-Fundamentals.pdf) |
 |   | 14 Dec | **Class Member Specifications** `Understanding encapsulation & access modifiers.` `Constructors, accessors, mutators, and method overloading.` | [📂](https://github.com/Kiratijuta/vms.oop.20212/tree/main/src/class5) | [📑](https://github.com/Kiratijuta/vms.oop.20212/blob/main/slides/04-OO-Fundamentals.pdf) |
-| 6 | 21 Dec | **Inheritance & Polymorphism** | [📂](https://github.com/Kiratijuta/vms.oop.20212/tree/main/src/class6) | |
+| 6 | 21 Dec | **Inheritance & Polymorphism** | [📂](https://github.com/Kiratijuta/vms.oop.20212/tree/main/src/class6) | [📑](https://github.com/Kiratijuta/vms.oop.20212/blob/main/slides/05%20-%20Inheritance%20and%20Polymorphism.pdf) |
 | 7 | 28 Dec | **🚨 Quiz I** |
-| 8 | 04 Jan | **Class Design & Relationships (Part 1)** `Overview of object associations.` `Problem-solving using object associations.` |
-| 9 | 11 Jan | **Class Design & Relationships (Part 2)** `Overview of object aggregations and composition.` `Problem-solving using object aggregations and composition.` |
+| 8 | 04 Jan | 🛑 **Class Cancelled** (Content moved to week #9) |
+| 9 | 11 Jan | **Inheritance & Polymorphism (cont.)** | [📂](https://github.com/Kiratijuta/vms.oop.20212/tree/main/src/class8) | [📑](https://github.com/Kiratijuta/vms.oop.20212/blob/main/slides/05%20-%20Inheritance%20and%20Polymorphism.pdf) |
 |   | 18 Jan | **Midterm Examination** |
-| 10 | 25 Jan | TBA |
-| 11 | 01 Feb | TBA |
+| 10 | 25 Jan | **Class Design & Relationships (Part 1)** `Overview of object associations.` `Problem-solving using object associations.` |
+| 11 | 01 Feb | **Class Design & Relationships (Part 2)** `Overview of object aggregations and composition.` `Problem-solving using object aggregations and composition.` |
 | 12 | 08 Feb | TBA |
 | 13 | 15 Feb | TBA |
 | 14 | 22 Feb | TBA |
