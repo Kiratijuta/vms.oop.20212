@@ -2,13 +2,14 @@ package class6;
 
 import java.util.Date;
 
-public class GeometricObject {
+public class GeometricObject extends Object {
 
     String color;
     private Boolean filled;
     private Date dateCreated;
 
     GeometricObject() {
+        System.out.println("GeometricObject constructor called");
         color = "white";
         filled = false;
     }

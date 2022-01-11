@@ -4,9 +4,10 @@ public class Circle extends GeometricObject {
 
     private double radius;
 
-    Circle() { }
+    public Circle() { }
 
     Circle(double radius) {
+        System.out.println("Circle constructor called");
         this.radius = radius;
     }
 
@@ -28,6 +29,11 @@ public class Circle extends GeometricObject {
 
     public double getDiameter() {
         return 2 * radius;
+    }
+
+    @Override
+    public void setColor(String color) {
+        super.setColor("Blue");
     }
 
     @Override
